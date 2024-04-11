@@ -6,5 +6,4 @@ google-auth-httplib2
 google-api-python-client
 reportlab
 google-generativeai
-git+https://github.com/openai/whisper.git#egg=whisper
-
+git+https://github.com/openai/whisper.git#egg=openai-whisper
